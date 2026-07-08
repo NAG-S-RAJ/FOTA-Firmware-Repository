@@ -7,9 +7,10 @@
         "uploaded_at": "08-07-2026 08:47:51 PM"
     },
     "BCM": {
-        "version": "2.0",
-        "file": "firmware/BCM/BCM_v2.0.bin",
-        "path": "firmware/BCM/BCM_v2.0.bin",
-        "download_url": "https://raw.githubusercontent.com/NAG-S-RAJ/FOTA-Firmware-Repository/main/firmware/BCM/BCM_v2.0.bin"
+        "version": "5.0",
+        "file": "firmware/BCM/BCM_v5.0.bin",
+        "path": "firmware/BCM/BCM_v5.0.bin",
+        "download_url": "https://raw.githubusercontent.com/NAG-S-RAJ/FOTA-Firmware-Repository/main/firmware/BCM/BCM_v5.0.bin",
+        "uploaded_at": "08-07-2026 08:57:34 PM"
     }
 }
