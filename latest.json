@@ -1,8 +1,8 @@
 {
     "SGW": {
-        "version": "2",
-        "file": "firmware/SGW/SGW_v2.bin",
-        "download_url": "https://raw.githubusercontent.com/NAG-S-RAJ/FOTA-Firmware-Repository/main/firmware/SGW/SGW_v2.bin"
+        "version": "3.0",
+        "file": "firmware/SGW/SGW_v3.0.bin",
+        "download_url": "https://raw.githubusercontent.com/NAG-S-RAJ/FOTA-Firmware-Repository/main/firmware/SGW/SGW_v3.0.bin"
     },
     "BCM": {
         "version": "3.0",
