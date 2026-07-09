@@ -1,10 +1,10 @@
 {
     "SGW": {
-        "version": "4.0",
-        "file": "firmware/SGW/SGW_v4.0.bin",
-        "path": "firmware/SGW/SGW_v4.0.bin",
-        "download_url": "https://raw.githubusercontent.com/NAG-S-RAJ/FOTA-Firmware-Repository/main/firmware/SGW/SGW_v4.0.bin",
-        "uploaded_at": "08-07-2026 08:47:51 PM"
+        "version": "6.0",
+        "file": "firmware/SGW/SGW_v6.0.bin",
+        "path": "firmware/SGW/SGW_v6.0.bin",
+        "download_url": "https://raw.githubusercontent.com/NAG-S-RAJ/FOTA-Firmware-Repository/main/firmware/SGW/SGW_v6.0.bin",
+        "uploaded_at": "09-07-2026 10:15:22 AM"
     },
     "BCM": {
         "version": "5.0",
